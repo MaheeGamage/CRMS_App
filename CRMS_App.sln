@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMS_App", "CRMS_App\CRMS_App.csproj", "{0E90F52F-EE65-4015-AA22-BD386A55718B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E90F52F-EE65-4015-AA22-BD386A55718B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E90F52F-EE65-4015-AA22-BD386A55718B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E90F52F-EE65-4015-AA22-BD386A55718B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E90F52F-EE65-4015-AA22-BD386A55718B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {410529AF-02CF-4C58-A4D9-50F08479EB44}
+	EndGlobalSection
+EndGlobal
